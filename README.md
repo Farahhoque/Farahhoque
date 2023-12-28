@@ -1,6 +1,6 @@
 # 👋 Hi! I am Farah 
 
-💡 I am passionate about unraveling the business insights hidden in vast business datasets. My skills lie in combining analytical know-how with marketing knowledge to drive data-inspired solutions.
+💡 I am passionate about unraveling the business insights hidden in vast business datasets, leveraging the power of machine learning and artificial intelligence. My skills lie in combining analytical know-how with marketing knowledge to drive data-inspired solutions.
 
 🎓 Currently pursuing a Master of Management in Analytics @ McGill University.
 
